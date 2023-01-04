@@ -1,0 +1,25 @@
+.topFixBanner{
+    
+background-image:url("../../image/marvin-meyer-SYTO3xs06fU-unsplash.jpg");
+min-height: 500px;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.topBannerOverlay{
+
+    position: absolute;
+    min-height: 500px;
+    width: 100%;
+    background: rgba(0,0,0,0.5);
+}
+
+
+
+.topContent{
+    margin-top: 10rem;
+
+}
