@@ -13,7 +13,7 @@ export default class TopBanner extends Component {
                 <Container className={"topContent"}>
                     <Row>
                         <Col className='text-center'>
-                            <h1 className="topTitle"> Software and Engineer</h1>
+                            <h1 className="topTitle"> Software  Designer and Engineer</h1>
                             <h5 className='subTitle' > Mobile & Web Application </h5>
                             <Button variant="primary">More Info</Button>
                         </Col>
